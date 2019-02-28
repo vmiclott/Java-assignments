@@ -1,0 +1,22 @@
+
+.button {
+    -fx-background-color: transparent;
+    -fx-border-color: white;
+    -fx-background-radius: 30;
+    -fx-border-radius: 30;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-font-size: 14px;
+    -fx-padding: 10 20 10 20;
+}
+
+#fancytext {
+    -fx-font: 80px Tahoma;
+    -fx-fill: linear-gradient(from 0% 0% to 100% 200%, repeat, aqua 0%, red 50%);
+    -fx-stroke: black;
+    -fx-stroke-width: 1;
+}
+
+.root {
+     -fx-background: rgba(0,0,0,0.7);
+}
