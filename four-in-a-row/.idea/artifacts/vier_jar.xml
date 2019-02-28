@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="vier:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/vier_jar</output-path>
+    <root id="archive" name="vier.jar">
+      <element id="module-output" name="vier" />
+    </root>
+  </artifact>
+</component>
